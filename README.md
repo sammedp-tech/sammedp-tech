@@ -41,14 +41,14 @@ I specialize in **Privileged Access Management (PAM)**, **Identity & Access Mana
 ---
 
 ### 🏆 Awards & Recognitions
-- **Spot Award ×3** — Nov ’25, Jul ’25, Mar ’25  
-- **Team Recognition Award** — Jan ’24  
-- **Best Ally Award ×2** — Dec ’23  
-- **Extra Miler Award** — Apr ’23  
-- **Bravo Award ×3** — Jan ’23  
-- **Technical Excellence Award** — May ’21  
-- **TCS Digital Cadre** — Sep ’19  
-- **Star Team Award** — Jan ’18  
+
+| Category | Awards |
+|---------|--------|
+| **Technical Excellence & Delivery** | • Technical Excellence Award — May ’21 |
+| **High Impact & Outstanding Performance** | • Spot Award ×3 — Nov ’25, Jul ’25, Mar ’25 • Bravo Award ×3 — Jan ’23 • Extra Miler Award — Apr ’23 |
+| **Collaboration & Client Appreciation** | • Team Recognition Award — Jan ’24 • Best Ally Award ×2 — Dec ’23 |
+| **Leadership & Growth Potential** | • TCS Digital Cadre — Sep ’19 • Star Team Award — Jan ’18 |
+
 
 ---
 
