@@ -31,8 +31,7 @@ I specialize in **Privileged Access Management (PAM)**, **Identity & Access Mana
 ---
 
 ### 🧠 Career Highlights
-- Implemented **PAM for 2M+ privileged accounts across 11 global environments**
-- Designed **end-to-end NHIM onboarding architectures** for critical workloads
+- Implemented **PAM for 1.5M+ privileged accounts across 11 global environments**
 - Developed **PAM migration automation using PowerShell + APIs** — reduced workload by 40%
 - Automated **service account lifecycle notifications** improving hygiene and accountability
 - Designed **NHIM governance model across cloud, on-prem and hybrid platforms**
@@ -62,7 +61,7 @@ I specialize in **Privileged Access Management (PAM)**, **Identity & Access Mana
 <a href="https://www.linkedin.com/in/sammed-patil/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:Sammedpatil007@gmail.com" target="_blank">
+<a href="mailto:sammedpatil007@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
