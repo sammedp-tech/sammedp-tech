@@ -25,7 +25,7 @@ I specialize in **Privileged Access Management (PAM)**, **Identity & Access Mana
 | CyberArk     | Azure Entra        | Privileged Security          |
 | BeyondTrust  | Active Directory   | Password Rotation            |
 | CA PAM       | Windows Server     | Least Privilege Enforcement  |
-| SailPoint    | Hybrid Infra       | Audits & Compliance          |
+| SailPoint    | Cloud Security     | Audits & Compliance          |
 | Saviynt      | PowerShell, APIs   | Monitoring & Forensics       |
 
 ---
