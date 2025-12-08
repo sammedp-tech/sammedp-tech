@@ -53,7 +53,8 @@ I specialize in **Privileged Access Management (PAM)**, **Identity & Access Mana
 
 ### 🎓 Certifications
 - **Certified Implementation Engineer – Password Safe**  
-- **CyberArk Defender – PAM**  
+- **CyberArk Defender – PAM**
+- **Non-Human Identity Fundamentals certified profesional by Oasis Security**  
 
 ---
 
