@@ -31,11 +31,12 @@ I specialize in **Privileged Access Management (PAM)**, **Identity & Access Mana
 ---
 
 ### 🧠 Career Highlights
-- Implemented **PAM for 1.8M+ privileged accounts across 13 global environments**
+- Implemented **PAM for 2.1M+ privileged accounts across 13 global environments**
 - Developed **PAM migration automation using PowerShell + APIs** — reduced workload by 40%
 - Automated **service account lifecycle notifications** improving hygiene and accountability
 - Designed **NHIM governance model across cloud, on-prem and hybrid platforms**
 - Worked on **7+ RFPs** related to Identity Security & PAM implementation
+- Evaluted multiple environments based on **maturity curve** and provided roadmap for uplifting PAM governance.
 
 ---
 
