@@ -38,7 +38,6 @@ I specialize in **Privileged Access Management (PAM)**, **Identity & Access Mana
 - Designed **NHIM governance model across cloud, on-prem and hybrid platforms**.
 - Worked on **7+ RFPs** related to Identity Security & PAM implementation.
 - Evaluted multiple environments based on **maturity curve** and provided roadmap for uplifting PAM governance.
-- Achieved **90%** success rate in account onboarding and integrations across CyberArk Privileged Cloud and EPM platforms.
 
 ---
 
