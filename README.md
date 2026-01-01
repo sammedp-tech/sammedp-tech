@@ -20,11 +20,11 @@ I specialize in **Privileged Access Management (PAM)**, **Identity & Access Mana
 ---
 
 ### 🛠 Tools & Technologies I Work With
-| PAM / IAM    | Cloud & Infra      | Security Skills              |
+| PAM / IAM    | Cloud & Infra      | Skills              |
 |--------------|--------------------|------------------------------|
-| CyberArk     | Azure Entra        | Privileged Security          |
-| BeyondTrust  | Active Directory   | Password Rotation            |
-| CA PAM       | Windows Server     | Least Privilege Enforcement  |
+| CyberArk (Privileged Cloud, EPM, SCA, SIA, Remote Access)    | AWS, Azure, Entra ID       | Stakeholder Management, Technical Leadership          |
+| BeyondTrust (Password Safe, EPM, PRA) | Active Directory  | PAM Architecture (HLD / LLD)            |
+| Non-Human Identity Management (NHIM)  | Zero Standing Privileges   | Migrations, Transitions & Operations  |
 | SailPoint    | Cloud Security     | Audits & Compliance          |
 | Saviynt      | PowerShell, APIs   | Monitoring & Forensics       |
 
@@ -32,11 +32,13 @@ I specialize in **Privileged Access Management (PAM)**, **Identity & Access Mana
 
 ### 🧠 Career Highlights
 - Implemented **PAM for 2.1M+ privileged accounts across 13 global environments**
-- Developed **PAM migration automation using PowerShell + APIs** — reduced workload by 40%
-- Automated **service account lifecycle notifications** improving hygiene and accountability
-- Designed **NHIM governance model across cloud, on-prem and hybrid platforms**
-- Worked on **7+ RFPs** related to Identity Security & PAM implementation
+- Designed high-level architecture for BeyondTrust, CyberArk PAM and EPM solutions including PoC, capacity planning, migration strategies and phased rollout.
+- Developed **PAM migration automation using PowerShell + APIs** — reduced workload by 50%
+- Automated **service account lifecycle notifications** improving hygiene and accountability.
+- Designed **NHIM governance model across cloud, on-prem and hybrid platforms**.
+- Worked on **7+ RFPs** related to Identity Security & PAM implementation.
 - Evaluted multiple environments based on **maturity curve** and provided roadmap for uplifting PAM governance.
+- Achieved **90%** success rate in account onboarding and integrations across CyberArk Privileged Cloud and EPM platforms.
 
 ---
 
